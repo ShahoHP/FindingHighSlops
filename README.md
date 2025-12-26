@@ -1,4 +1,4 @@
-# Slope Analysis with Machine Learning (Iran)
+# Slope Analysis with Machine Learning 
 
 This project applies **logistic regression** to classify locations as **high-slope** or **low-slope** using environmental and geological factors.  
 The goal is to explore whether slope-critical areas can be identified **without directly using slope measurements**, which is relevant for preliminary slope risk screening in geotechnical and mining contexts.
@@ -6,7 +6,7 @@ The goal is to explore whether slope-critical areas can be identified **without 
 ---
 
 ## Dataset
-The dataset contains terrain, hydrological, land-use, geological, and climate-related variables for locations in Iran.
+The dataset contains terrain, hydrological, land-use, geological, and climate-related variables for locations in Iran
 
 Main variables include:
 - Elevation
